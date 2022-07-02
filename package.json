@@ -1,6 +1,6 @@
 {
-  "name": "c-panel",
-  "private": true,
+  "name": "blogger-clone",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
